@@ -2,13 +2,12 @@
   "name": "sass-template",
   "version": "1.0.0",
   "description": "sass-template",
-  "homepage": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["sass"],
+  "author": "fedorax <fedorax@fedorax.info>",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
